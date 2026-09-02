@@ -1,0 +1,12 @@
+schema: "classroom50/repo-config/v1"
+classroom: "agi"
+assignment: "github-pages"
+owner:
+  username: "jo-hyun-sung1469"
+  id: 204841569
+  accepted_at: "2026-09-02T01:01:43Z"
+source:
+  owner: "gsm-class"
+  owner_id: 318515310
+  repo: "github-pages"
+  branch: "main"
